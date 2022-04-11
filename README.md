@@ -5,7 +5,6 @@
 ## Description
 
 This app allows users to enter items into a budgeting system that tracks expenditures over time. It features offline functionality with cached resources and information stored using IndexedDB.
-<https://budget-tracker-141415.herokuapp.com>
 
 ## Usage
 
